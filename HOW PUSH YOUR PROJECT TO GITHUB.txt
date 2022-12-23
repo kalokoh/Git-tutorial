@@ -1,0 +1,8 @@
+1. Create a new repository
+2. Copy the URL of the repository
+3. Navigate to the project folder using CMD or gitbash
+4. Initialize (git init)
+5. Add all files (git add .)
+6. Commit (git commit -m "ICS")
+7. Synchronize project with github (git remote add origin repository link here)
+8. Finally push your project (git push -u -f origin master)

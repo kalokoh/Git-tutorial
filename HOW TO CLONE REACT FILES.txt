@@ -1,0 +1,7 @@
+REACT NOTES
+
+HOW TO CLONE REACT FILE
+----------------------------
+
+git clone http url from git
+npm install
